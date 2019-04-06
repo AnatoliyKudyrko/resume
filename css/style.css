@@ -1,0 +1,13 @@
+h3{
+    padding-top: 20px;
+}
+span{
+    font-weight: 500;
+}
+.card-link{
+    position: relative;
+    cursor: pointer;
+}
+.card-link:hover{
+    color: orange;
+}
